@@ -1,19 +1,3 @@
+Hi Welcome to our Github Repo. This will be used for Geekout Hackathon challenge. 
 
-crying
-
-hello
-
-this is from derrick branch
-
-this is ryan tan i love anime branch
-I made a big change to README, pls read me
-
-I made a big change to README, pls read me
-
-
-
-changes by kei kuan
-
-I made a big change to README, pls read me
-
-
+Our main purpose is to provide accessibility for the blind people taking public buses. 
